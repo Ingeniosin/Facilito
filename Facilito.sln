@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facilito", "Facilito.csproj", "{A9DA19CE-D32F-44F4-A1C0-95A68AAC77BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicApi", "..\..\Libraries\DynamicApi\DynamicApi.csproj", "{175E04C8-17EF-419E-A841-7AAE244445FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A9DA19CE-D32F-44F4-A1C0-95A68AAC77BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9DA19CE-D32F-44F4-A1C0-95A68AAC77BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9DA19CE-D32F-44F4-A1C0-95A68AAC77BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{175E04C8-17EF-419E-A841-7AAE244445FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175E04C8-17EF-419E-A841-7AAE244445FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175E04C8-17EF-419E-A841-7AAE244445FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175E04C8-17EF-419E-A841-7AAE244445FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
